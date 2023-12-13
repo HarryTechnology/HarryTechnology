@@ -2,8 +2,6 @@
 <p>Olá, Meu nome é Cicero Augusto, Tenho 38 anos, <br> Trabalho em almoxerifado no atual momento<br>Me dedico a área de Programação a mais de 1 <br>ano, Tenho um filho de 13 anos, Me ajuda em <br>questões da Programação e design, Ele tem 6 <br>meses dentro da Programação & 1 ano de <br>Designer Gráfico. Moramos em São Paulo/SP,<br>
 E temos esperanças de sair do brasil a negocios.
 
-![BimboHenrys GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryTechnology&show_icons=true&theme=gruvbox)
-
 ## 🧾Habilidades:
 
 <div id="div1" style="display: inline-block;"> 
