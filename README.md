@@ -1,6 +1,6 @@
-## Welcome to my profile!
+# Welcome to my profile!👋
 
-<p> Two Front-end and Back-end programmers, Looking to grow within programming!!
+<h3> Two Front-end and Back-end programmers, Looking to grow within programming!!</h2>
  
  - 🌍Looking for services around the world;
   - 💻Looking to grow in programming;
