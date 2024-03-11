@@ -13,6 +13,6 @@
 
 <div>
 <a href="https://github.com/HarryTechnology">
-<img height="180cm" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=HarryTechnology&show_icons=true&theme=dark&layout=compact" />
+<img height="180cm" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=HarryTechnology&show_icons=true&theme=dark&layout=compact"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=HarryTechnology&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
